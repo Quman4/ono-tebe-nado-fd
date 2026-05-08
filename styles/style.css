@@ -32,6 +32,10 @@ a {
   list-style: circle;
 }
 
+.header__link_active {
+  text-decoration: none;
+}
+
 .header__links-list-item_no-bullit {
   list-style: none;
 }
